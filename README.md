@@ -14,7 +14,8 @@ The aim of this project is to analyse the stats of different players who played 
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img width="500" alt="1" src="https://github.com/Manonmana/ICC-T20-World-Cup-2022-Data-Analysis/assets/79914856/38718339-fa94-41b0-8d6d-86ee3fc79d79">
+<img width="564" alt="2" src="https://github.com/Manonmana/ICC-T20-World-Cup-2022-Data-Analysis/assets/79914856/94817c92-27a6-41b6-86fc-b9af092827fc">
 
 
 ## 🛠 Skills
